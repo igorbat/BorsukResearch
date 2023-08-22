@@ -1,3 +1,10 @@
+BoolCubeN10Diam6/clean_code/KaMIS/
+BoolCubeN10Diam6/clean_code/kissat/
+BoolCubeN10Diam6/clean_code/kissat1
+BoolCubeN10Diam6/clean_code/test_11.cnf
+BoolCubeN10Diam6/draft_code/tasks_to_solve.txt
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
